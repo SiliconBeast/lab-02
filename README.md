@@ -5,6 +5,7 @@
 - **CCID:** `suvir1`
 
 ## References and Resources
-N/A
+ Android Developers — Jetpack Compose: https://developer.android.com/develop/ui/compose
+ ListyCity Instructions Slides
 ## Verbal Collaboration
 N/A
