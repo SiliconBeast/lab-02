@@ -5,14 +5,14 @@
 - **CCID:** `suvir1`
 
 ## References and Resources
- -Android Developers — Jetpack Compose: https://developer.android.com/develop/ui/compose
+ -OOP Basics Slides
  
  -ListyCity Instructions Slides
  
  -INbuilt Google Gemini Agent in Android Studio for finding right imports and formatting (// "what imports are needed here for the proper build" - 11/09/2026 (Response - "Here is the clean, complete list of imports needed for  MainActivity.kt:
-import android.os.Bundle
-import androidx.activity.ComponentActivity
-import androidx.activity.compose.setContent
+- import android.os.Bundle
+- import androidx.activity.ComponentActivity
+- import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
